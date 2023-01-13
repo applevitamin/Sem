@@ -1,0 +1,15 @@
+C:\Users\Apple_Vitamin\Desktop\Sem\New002\bin\Debug\net6.0\New002.exe
+C:\Users\Apple_Vitamin\Desktop\Sem\New002\bin\Debug\net6.0\New002.deps.json
+C:\Users\Apple_Vitamin\Desktop\Sem\New002\bin\Debug\net6.0\New002.runtimeconfig.json
+C:\Users\Apple_Vitamin\Desktop\Sem\New002\bin\Debug\net6.0\New002.dll
+C:\Users\Apple_Vitamin\Desktop\Sem\New002\bin\Debug\net6.0\New002.pdb
+C:\Users\Apple_Vitamin\Desktop\Sem\New002\obj\Debug\net6.0\New002.csproj.AssemblyReference.cache
+C:\Users\Apple_Vitamin\Desktop\Sem\New002\obj\Debug\net6.0\New002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apple_Vitamin\Desktop\Sem\New002\obj\Debug\net6.0\New002.AssemblyInfoInputs.cache
+C:\Users\Apple_Vitamin\Desktop\Sem\New002\obj\Debug\net6.0\New002.AssemblyInfo.cs
+C:\Users\Apple_Vitamin\Desktop\Sem\New002\obj\Debug\net6.0\New002.csproj.CoreCompileInputs.cache
+C:\Users\Apple_Vitamin\Desktop\Sem\New002\obj\Debug\net6.0\New002.dll
+C:\Users\Apple_Vitamin\Desktop\Sem\New002\obj\Debug\net6.0\refint\New002.dll
+C:\Users\Apple_Vitamin\Desktop\Sem\New002\obj\Debug\net6.0\New002.pdb
+C:\Users\Apple_Vitamin\Desktop\Sem\New002\obj\Debug\net6.0\New002.genruntimeconfig.cache
+C:\Users\Apple_Vitamin\Desktop\Sem\New002\obj\Debug\net6.0\ref\New002.dll

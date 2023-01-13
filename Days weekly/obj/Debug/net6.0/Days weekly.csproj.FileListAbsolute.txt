@@ -1,0 +1,15 @@
+C:\Users\Apple_Vitamin\Desktop\Sem\Days weekly\bin\Debug\net6.0\Days weekly.exe
+C:\Users\Apple_Vitamin\Desktop\Sem\Days weekly\bin\Debug\net6.0\Days weekly.deps.json
+C:\Users\Apple_Vitamin\Desktop\Sem\Days weekly\bin\Debug\net6.0\Days weekly.runtimeconfig.json
+C:\Users\Apple_Vitamin\Desktop\Sem\Days weekly\bin\Debug\net6.0\Days weekly.dll
+C:\Users\Apple_Vitamin\Desktop\Sem\Days weekly\bin\Debug\net6.0\Days weekly.pdb
+C:\Users\Apple_Vitamin\Desktop\Sem\Days weekly\obj\Debug\net6.0\Days weekly.csproj.AssemblyReference.cache
+C:\Users\Apple_Vitamin\Desktop\Sem\Days weekly\obj\Debug\net6.0\Days weekly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apple_Vitamin\Desktop\Sem\Days weekly\obj\Debug\net6.0\Days weekly.AssemblyInfoInputs.cache
+C:\Users\Apple_Vitamin\Desktop\Sem\Days weekly\obj\Debug\net6.0\Days weekly.AssemblyInfo.cs
+C:\Users\Apple_Vitamin\Desktop\Sem\Days weekly\obj\Debug\net6.0\Days weekly.csproj.CoreCompileInputs.cache
+C:\Users\Apple_Vitamin\Desktop\Sem\Days weekly\obj\Debug\net6.0\Days weekly.dll
+C:\Users\Apple_Vitamin\Desktop\Sem\Days weekly\obj\Debug\net6.0\refint\Days weekly.dll
+C:\Users\Apple_Vitamin\Desktop\Sem\Days weekly\obj\Debug\net6.0\Days weekly.pdb
+C:\Users\Apple_Vitamin\Desktop\Sem\Days weekly\obj\Debug\net6.0\Days weekly.genruntimeconfig.cache
+C:\Users\Apple_Vitamin\Desktop\Sem\Days weekly\obj\Debug\net6.0\ref\Days weekly.dll
