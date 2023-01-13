@@ -1,0 +1,15 @@
+C:\Users\Apple_Vitamin\Desktop\Sem\bin\Debug\net6.0\Sem.exe
+C:\Users\Apple_Vitamin\Desktop\Sem\bin\Debug\net6.0\Sem.deps.json
+C:\Users\Apple_Vitamin\Desktop\Sem\bin\Debug\net6.0\Sem.runtimeconfig.json
+C:\Users\Apple_Vitamin\Desktop\Sem\bin\Debug\net6.0\Sem.dll
+C:\Users\Apple_Vitamin\Desktop\Sem\bin\Debug\net6.0\Sem.pdb
+C:\Users\Apple_Vitamin\Desktop\Sem\obj\Debug\net6.0\Sem.csproj.AssemblyReference.cache
+C:\Users\Apple_Vitamin\Desktop\Sem\obj\Debug\net6.0\Sem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apple_Vitamin\Desktop\Sem\obj\Debug\net6.0\Sem.AssemblyInfoInputs.cache
+C:\Users\Apple_Vitamin\Desktop\Sem\obj\Debug\net6.0\Sem.AssemblyInfo.cs
+C:\Users\Apple_Vitamin\Desktop\Sem\obj\Debug\net6.0\Sem.csproj.CoreCompileInputs.cache
+C:\Users\Apple_Vitamin\Desktop\Sem\obj\Debug\net6.0\Sem.dll
+C:\Users\Apple_Vitamin\Desktop\Sem\obj\Debug\net6.0\refint\Sem.dll
+C:\Users\Apple_Vitamin\Desktop\Sem\obj\Debug\net6.0\Sem.pdb
+C:\Users\Apple_Vitamin\Desktop\Sem\obj\Debug\net6.0\Sem.genruntimeconfig.cache
+C:\Users\Apple_Vitamin\Desktop\Sem\obj\Debug\net6.0\ref\Sem.dll
