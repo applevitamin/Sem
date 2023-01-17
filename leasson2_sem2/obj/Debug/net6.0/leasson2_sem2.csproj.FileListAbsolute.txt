@@ -1,0 +1,15 @@
+C:\Users\Apple_Vitamin\Desktop\Sem\leasson2_sem2\bin\Debug\net6.0\leasson2_sem2.exe
+C:\Users\Apple_Vitamin\Desktop\Sem\leasson2_sem2\bin\Debug\net6.0\leasson2_sem2.deps.json
+C:\Users\Apple_Vitamin\Desktop\Sem\leasson2_sem2\bin\Debug\net6.0\leasson2_sem2.runtimeconfig.json
+C:\Users\Apple_Vitamin\Desktop\Sem\leasson2_sem2\bin\Debug\net6.0\leasson2_sem2.dll
+C:\Users\Apple_Vitamin\Desktop\Sem\leasson2_sem2\bin\Debug\net6.0\leasson2_sem2.pdb
+C:\Users\Apple_Vitamin\Desktop\Sem\leasson2_sem2\obj\Debug\net6.0\leasson2_sem2.csproj.AssemblyReference.cache
+C:\Users\Apple_Vitamin\Desktop\Sem\leasson2_sem2\obj\Debug\net6.0\leasson2_sem2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apple_Vitamin\Desktop\Sem\leasson2_sem2\obj\Debug\net6.0\leasson2_sem2.AssemblyInfoInputs.cache
+C:\Users\Apple_Vitamin\Desktop\Sem\leasson2_sem2\obj\Debug\net6.0\leasson2_sem2.AssemblyInfo.cs
+C:\Users\Apple_Vitamin\Desktop\Sem\leasson2_sem2\obj\Debug\net6.0\leasson2_sem2.csproj.CoreCompileInputs.cache
+C:\Users\Apple_Vitamin\Desktop\Sem\leasson2_sem2\obj\Debug\net6.0\leasson2_sem2.dll
+C:\Users\Apple_Vitamin\Desktop\Sem\leasson2_sem2\obj\Debug\net6.0\refint\leasson2_sem2.dll
+C:\Users\Apple_Vitamin\Desktop\Sem\leasson2_sem2\obj\Debug\net6.0\leasson2_sem2.pdb
+C:\Users\Apple_Vitamin\Desktop\Sem\leasson2_sem2\obj\Debug\net6.0\leasson2_sem2.genruntimeconfig.cache
+C:\Users\Apple_Vitamin\Desktop\Sem\leasson2_sem2\obj\Debug\net6.0\ref\leasson2_sem2.dll
