@@ -1,0 +1,15 @@
+C:\Users\Apple_Vitamin\Desktop\Sem\sem3_rask\bin\Debug\net6.0\sem3_rask.exe
+C:\Users\Apple_Vitamin\Desktop\Sem\sem3_rask\bin\Debug\net6.0\sem3_rask.deps.json
+C:\Users\Apple_Vitamin\Desktop\Sem\sem3_rask\bin\Debug\net6.0\sem3_rask.runtimeconfig.json
+C:\Users\Apple_Vitamin\Desktop\Sem\sem3_rask\bin\Debug\net6.0\sem3_rask.dll
+C:\Users\Apple_Vitamin\Desktop\Sem\sem3_rask\bin\Debug\net6.0\sem3_rask.pdb
+C:\Users\Apple_Vitamin\Desktop\Sem\sem3_rask\obj\Debug\net6.0\sem3_rask.csproj.AssemblyReference.cache
+C:\Users\Apple_Vitamin\Desktop\Sem\sem3_rask\obj\Debug\net6.0\sem3_rask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apple_Vitamin\Desktop\Sem\sem3_rask\obj\Debug\net6.0\sem3_rask.AssemblyInfoInputs.cache
+C:\Users\Apple_Vitamin\Desktop\Sem\sem3_rask\obj\Debug\net6.0\sem3_rask.AssemblyInfo.cs
+C:\Users\Apple_Vitamin\Desktop\Sem\sem3_rask\obj\Debug\net6.0\sem3_rask.csproj.CoreCompileInputs.cache
+C:\Users\Apple_Vitamin\Desktop\Sem\sem3_rask\obj\Debug\net6.0\sem3_rask.dll
+C:\Users\Apple_Vitamin\Desktop\Sem\sem3_rask\obj\Debug\net6.0\refint\sem3_rask.dll
+C:\Users\Apple_Vitamin\Desktop\Sem\sem3_rask\obj\Debug\net6.0\sem3_rask.pdb
+C:\Users\Apple_Vitamin\Desktop\Sem\sem3_rask\obj\Debug\net6.0\sem3_rask.genruntimeconfig.cache
+C:\Users\Apple_Vitamin\Desktop\Sem\sem3_rask\obj\Debug\net6.0\ref\sem3_rask.dll
