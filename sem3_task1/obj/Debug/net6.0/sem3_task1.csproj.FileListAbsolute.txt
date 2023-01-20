@@ -1,0 +1,15 @@
+C:\Users\Apple_Vitamin\Desktop\Sem\sem3_task1\bin\Debug\net6.0\sem3_task1.exe
+C:\Users\Apple_Vitamin\Desktop\Sem\sem3_task1\bin\Debug\net6.0\sem3_task1.deps.json
+C:\Users\Apple_Vitamin\Desktop\Sem\sem3_task1\bin\Debug\net6.0\sem3_task1.runtimeconfig.json
+C:\Users\Apple_Vitamin\Desktop\Sem\sem3_task1\bin\Debug\net6.0\sem3_task1.dll
+C:\Users\Apple_Vitamin\Desktop\Sem\sem3_task1\bin\Debug\net6.0\sem3_task1.pdb
+C:\Users\Apple_Vitamin\Desktop\Sem\sem3_task1\obj\Debug\net6.0\sem3_task1.csproj.AssemblyReference.cache
+C:\Users\Apple_Vitamin\Desktop\Sem\sem3_task1\obj\Debug\net6.0\sem3_task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apple_Vitamin\Desktop\Sem\sem3_task1\obj\Debug\net6.0\sem3_task1.AssemblyInfoInputs.cache
+C:\Users\Apple_Vitamin\Desktop\Sem\sem3_task1\obj\Debug\net6.0\sem3_task1.AssemblyInfo.cs
+C:\Users\Apple_Vitamin\Desktop\Sem\sem3_task1\obj\Debug\net6.0\sem3_task1.csproj.CoreCompileInputs.cache
+C:\Users\Apple_Vitamin\Desktop\Sem\sem3_task1\obj\Debug\net6.0\sem3_task1.dll
+C:\Users\Apple_Vitamin\Desktop\Sem\sem3_task1\obj\Debug\net6.0\refint\sem3_task1.dll
+C:\Users\Apple_Vitamin\Desktop\Sem\sem3_task1\obj\Debug\net6.0\sem3_task1.pdb
+C:\Users\Apple_Vitamin\Desktop\Sem\sem3_task1\obj\Debug\net6.0\sem3_task1.genruntimeconfig.cache
+C:\Users\Apple_Vitamin\Desktop\Sem\sem3_task1\obj\Debug\net6.0\ref\sem3_task1.dll
